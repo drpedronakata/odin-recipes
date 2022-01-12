@@ -1,2 +1,2 @@
 # odin-recipes
-Tutorial de ODIN - Recipes
+Tutorial de ODIN - Recipes!
